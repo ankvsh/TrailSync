@@ -1,4 +1,4 @@
-# 🏕️ TrailSync - Trekking Management Application
+# TrailSync - Trekking Management Application
 
 A comprehensive Flask-based web application for managing adventure trekking activities. It streamlines operations for administrators, empowers trek staff to manage participants, and allows users to easily book and track their expeditions.
 
